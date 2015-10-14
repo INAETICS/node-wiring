@@ -1,4 +1,4 @@
-# Node Wiring and RSA INAETICS
+# Node Wiring and RSA INAETICS [![Build Status](https://travis-ci.org/INAETICS/node-wiring-java.svg?branch=master)](https://travis-ci.org/INAETICS/node-wiring-java)
 
 ## Build
 
