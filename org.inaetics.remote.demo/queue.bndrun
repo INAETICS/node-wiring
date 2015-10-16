@@ -48,4 +48,4 @@
 	org.osgi.service.http.port=9010,\
 	org.apache.felix.http.host=localhost,\
 	org.apache.felix.log.maxSize=-1,\
-	org.apache.felix.log.storeDebug=truelog 1 
+	org.apache.felix.log.storeDebug=true
