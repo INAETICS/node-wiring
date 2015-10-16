@@ -12,6 +12,10 @@ Import-Package: \
   !org.joda.time.*,\
   *
 
+Export-Package: \
+	org.osgi.service.remoteserviceadmin,\
+	org.osgi.service.remoteserviceadmin.namespace
+
 DynamicImport-Package: *
 
 Provide-Capability: osgi.service;objectClass:List<String>="org.osgi.service.remoteserviceadmin.RemoteServiceAdmin";uses:="org.osgi.service.remoteserviceadmin",\
